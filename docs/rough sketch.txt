@@ -1,0 +1,24 @@
++----------------------+
+|logo                  |
++----------------------+
+|NEXT RACE: ASSEN GP   |
+|01d : 11h : 34m       | <--- Sticky status
++----------------------+
+|SESSION SCHEDULE      | <--- Vertical list
++----------------------+
+|SESSION|REMOTE|LOCAL  |
++-------+------+-------+
+|FP1    |14:15 |10:45  |
+|PR     |17:30 |14:00  |
++-------+------+-------+
+|[THU][FRI][SAT][SUN]  | <--- Selectable days
++----------------------+
+|CONTENDERS            | <--- Vertical list
++----------------------+
+|Position|Name|Points  |
++--------+----+--------+
+|1       |PB63|147     | <--- Candidaates within 37 points
+|2       |MM93|110     |
++----------------------+
+|[home]|[stand]|[rider]|
++----------------------+
